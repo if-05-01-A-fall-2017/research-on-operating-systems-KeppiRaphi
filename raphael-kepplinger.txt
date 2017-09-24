@@ -1,0 +1,8 @@
+Von IBM entwickelt
+Für IBM Großrechner
+2001 erschienen
+Wurzeln reichen aber bis in die 1950er Jahre zurück
+Das z im Namen steht für zero downtime (eine downtime ist 
+eine nicht geplante Betriebsunterbrechung)
+Soll also downtimes so gut wie möglich verhindern
+Durchschnittlich ca 5 Minuten downtime pro Jahr
